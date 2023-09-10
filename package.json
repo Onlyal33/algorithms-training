@@ -1,0 +1,18 @@
+{
+  "name": "algorithms-training",
+  "version": "1.0.0",
+  "description": "algorithms",
+  "main": "./src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onlyal33/algorithms-training.git"
+  },
+  "author": "Onlyal33",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Onlyal33/algorithms-training/issues"
+  },
+  "homepage": "https://github.com/Onlyal33/algorithms-training#readme"
+}
